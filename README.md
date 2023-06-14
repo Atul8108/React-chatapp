@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Login user name 1 :- Atul password: 1234
+Login user name 2 :- Monkey D. Luffy password: 1234
+
 live link :-https://react-chat-app-sgmr.onrender.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
